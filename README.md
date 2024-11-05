@@ -1,6 +1,8 @@
 Este é um conversor de moedas simples de linha de comando que permite converter valores entre diferentes moedas.
 O programa irá exibir um menu com as opções de conversão disponíveis.
 Selecione a opção desejada digitando o número correspondente e pressione Enter.
+
+
 Digite o valor a ser convertido:
 Após selecionar a opção de conversão, o programa irá solicitar que você digite o valor a ser convertido.
 Digite o valor e pressione Enter.
@@ -15,6 +17,8 @@ Euro (EUR)
 Yuan Chinês (CNY)
 Interface de linha de comando simples e intuitiva.
 Validação de entrada para garantir que o usuário digite um valor numérico válido.
+
+
 Exemplo de uso:
 --- Conversor de Moedas ---
 1. Dólar para Peso Argentino
